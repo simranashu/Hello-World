@@ -7,9 +7,8 @@
 <h1> We will be having 3rd project which is Kubernetes Project.................... </h1>
 
 hi
-hi
-hi
-
+hi simran
+how r u
 
 
 
